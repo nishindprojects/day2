@@ -1,0 +1,11 @@
+class main {
+    public static void data(string name,string job,string package)
+    {
+        system.out.println("Name :" +name);
+        system.out.println("job :" +job);
+        system.out.println("package ;" +package);
+    }
+    public static void main(string[] args) {
+        system.out.println("kumar","gamedeveloper","55000")
+    }
+    }
