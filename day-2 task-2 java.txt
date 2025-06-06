@@ -1,0 +1,10 @@
+public class ExampleString {
+    public static void main(String[] args) {
+        String s1 = "Hi my name is kumar";
+        String s2 = new String("What is your name");
+        String s3 = s2;
+        System.out.println(s1.equals(s2));
+        System.out.println(s1.equals(s3)); 
+        System.out.println(s1.charAt(1));  
+    }
+}
